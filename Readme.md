@@ -1,3 +1,5 @@
+https://github.com/vgaurav3011/Statistics-for-Machine-Learning/blob/master/notebooks/001-Measures-of-Central-Tendency.ipynb
+
 **Module 3: Mathematical Foundations for Machine Learning**
 
 **Linear Algebra: **
@@ -21,3 +23,4 @@ In linear algebra, master essential operations involving vectors and matrices an
 Probability theory will provide concepts on probability distributions and Bayes' theorem, which is crucial to understanding the probabilistic nature of machine learning algorithms.
 
 Furthermore, it delves into optimisation techniques, including gradient descent and convex optimisation, empowering to optimise models and algorithms effectively.
+
